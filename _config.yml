@@ -8,7 +8,7 @@ description: >
   and most importantly, people, through mentoring, financial support, training,
   and logistics.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://techramento.github.io" # the base hostname & protocol for your site
+url: "http://techramento.org"
 twitter_username:
 github_username: techramento
 facebook_username: techramento
