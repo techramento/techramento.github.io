@@ -2,10 +2,11 @@
 title: Techramento
 legal_title: Techramento
 email:
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >
+  Staffed by community leaders that are passionate about coalescing the
+  technology scene in Sacramento, we support our area's usergroups, conferences,
+  and most importantly, people, through mentoring, financial support, training,
+  and logistics.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://techramento.github.io" # the base hostname & protocol for your site
 twitter_username:
