@@ -1,0 +1,10 @@
+---
+---
+
+@import 'variables';
+@import 'MemberOrg';
+
+.Superhero {
+  background-image: linear-gradient(0deg, transparent, #111),
+                    url(/images/tower_bridge.jpg);
+}

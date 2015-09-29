@@ -1,0 +1,17 @@
+---
+layout: page
+header: light
+title: Guides
+---
+
+<h1>Guides</h1>
+
+<ul>
+  {% for resource in site.posts | where 'category', 'guide' %}
+    <li>
+      <a href="{{ resource.url | prepend: site.baseurl }}">
+        {{ resource.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,25 @@
+---
+layout: page
+rank: 3
+header: light
+title: Resources
+---
+
+<h2>Guides</h2>
+{% assign guides = site.posts | where: 'category', 'guide' %}
+{% assign guide_count = guides | size %}
+<ul>
+  {% for guide in guides | limit: 5 %}
+    <li>
+      <a href="{{ guide.url | prepend: site.baseurl }}">
+        {{ guide.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% if guide_count > 5 %}
+  <p>
+    <a href="guides.html">See all {{ guide_count }} guides...</a>
+  </p>
+{% endif %}

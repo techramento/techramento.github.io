@@ -1,5 +1,6 @@
 # Site settings
 title: Techramento
+legal_title: Techramento
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -8,7 +9,18 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://techramento.github.io" # the base hostname & protocol for your site
 twitter_username:
-github_username:  techramento
+github_username: techramento
+facebook_username: techramento
+corporate_physical_address_1: 1715 I St.
+corporate_physical_address_2:
+corporate_physical_city: Sacramento
+corporate_physical_state: CA
+corporate_physical_postal_code: 95811
+corporate_mailing_address_1: 1715 I St.
+corporate_mailing_address_2:
+corporate_mailing_city: Sacramento
+corporate_mailing_state: CA
+corporate_mailing_postal_code: 95811
 
 # Build settings
 markdown: kramdown

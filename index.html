@@ -1,19 +1,58 @@
 ---
-layout: default
+layout: superhero
+stylesheet: homepage
+content_include: homepage_hero.html
+superhero_photo_url: https://www.flickr.com/photos/29233640@N07/5724686543
+superhero_photograher: Robert Couse-Baker
 ---
-<div class="home">
-  <h1 class="page-heading">Posts</h1>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-  <p class="rss-subscribe">
-    subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
-  </p>
-</div>
+
+<main>
+  <section class="HeroSection">
+    <header class="HeroSection--header">Our Mission</header>
+    <p class="HeroSection--content">
+      Staffed by community leaders that are passionate about coalescing the
+      technology scene in Sacramento, we support our area's usergroups,
+      conferences, and most importantly, people, through mentoring, financial
+      support, training, and logistics.
+    </p>
+
+    <p class="HeroSection--content">
+      <a href="/our_mission" class="Button">Learn more</a>
+    </p>
+  </section>
+
+  <section class="HeroSection">
+    <header class="HeroSection--header">Member Organizations</header>
+    <p class="HeroSection--content">
+      We are dedicated to strengthening the technology community in Sacramento
+      by providing quality events and experiences to everyone.  Check out some
+      of the fantastic organizations that have joined our ranks to provide you,
+      and all of Sacramento, with the best resources our area needs.
+    </p>
+    {% assign member_orgs = site.data.member_organizations %}
+    <p class="flex flex--justifyContent-spaceAround">
+      {% for member_org in member_orgs | limit: 5 %}
+        <a class="MemberOrg--listItem" href="/our_community#{{ member_org.name | slugify }}" target="meetup">
+          <img class="MemberOrg--listItemImg" src="{{ member_org.avatar }}" width="100" height="100"/>
+          {{ member_org.name }}
+        </a>
+      {% endfor %}
+    </p>
+    <p class="HeroSection--content">
+      <a href="/our_community" class="Button">See more</a>
+    </p>
+  </section>
+
+  <section class="HeroSection">
+    <header class="HeroSection--header">Join our Family</header>
+    <p class="HeroSection--content">
+      {{ site.title }} is committed to providing the Sacramento Tech Community with
+      events of outstanding quality. Joining our organization allows you to
+      take advantage of the numerous resources that we provide. Joining is
+      100% free and easy to do!
+    </p>
+    <p class="HeroSection--content">
+      <a href="/our_community/join_us" class="Button">Join Us!</a>
+    </p>
+  </section>
+</main>

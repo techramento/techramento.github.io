@@ -1,0 +1,33 @@
+.PageContent {
+  padding-top: $spacing-unit;
+  padding-right: 0;
+  padding-bottom: $spacing-unit;
+  padding-left: 0;
+}
+
+.SiteHeader + .PageContent {
+  padding-top: #{$header-height + $spacing-unit};
+}
+
+.PageHeading {
+  font-size: 20px;
+}
+
+.Post--list {
+  margin-left: 0;
+  list-style: none;
+}
+
+.Post--listItem {
+  margin-bottom: $spacing-unit;
+}
+
+.Post--meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.Post--link {
+  display: block;
+  font-size: 24px;
+}

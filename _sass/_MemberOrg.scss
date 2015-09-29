@@ -1,0 +1,57 @@
+.MemberOrg--listItem {
+  padding-top: $spacing-unit;
+  padding-right: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  padding-left: $spacing-unit;
+  transition: background .3s ease-in-out;
+  &,
+  &:hover,
+  &:visited {
+    color: inherit;
+    text-decoration: none;
+  }
+  &:hover {
+    background: #ecf0f1;
+  }
+}
+
+.MemberOrg--listItemImg {
+  display: block;
+  padding-bottom: $spacing-unit / 2;
+}
+
+.MemberOrg {
+  padding-top: $spacing-unit;
+  padding-right: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  padding-left: $spacing-unit;
+}
+
+.MemberOrg--overview {
+  padding-right: $spacing-unit;
+}
+
+.MemberOrg--avatarLink {
+  display: block;
+  padding-bottom: $spacing-unit / 2;
+}
+
+.MemberOrg--social {
+  padding-bottom: $spacing-unit;
+  text-align: center;
+}
+
+.MemberOrg--nameLink {
+  text-decoration: none;
+  &,
+  &:visited {
+    color: inherit;
+  }
+}
+
+.MemberOrg--focus {
+  padding-bottom: $spacing-unit;
+  font-size: .5rem;
+  text-transform: uppercase;
+  font-family: Montserrat, sans-serif;
+}

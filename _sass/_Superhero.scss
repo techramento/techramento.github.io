@@ -1,0 +1,62 @@
+.Superhero {
+  height: 100vh;
+  padding-top: 100px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.Superhero--content {
+  text-align: center;
+  color: #eee;
+}
+
+.Superhero--title {
+  font-size: 60px;
+  font-family: Montserrat;
+}
+
+.Superhero--subtitle {
+  font-size: 48px;
+}
+
+.Superhero--readMore {
+  padding-bottom: .5rem;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-size: .75rem;
+  text-transform: uppercase;
+  opacity: .75;
+  a {
+    color: #eee;
+    text-shadow: -1px  -1px 1px #111,
+                   1px -1px 1px #111,
+                  -1px  1px 1px #111,
+                   1px  1px 1px #111;
+    &,
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.Superhero--readMoreArrow {
+  display: block;
+  font-style: normal;
+}
+
+.Superhero--attribution {
+  padding-right: .25rem;
+  padding-bottom: .25rem;
+  text-align: right;
+  font-family: Montserrat, sans-serif;
+  font-size: .5rem;
+  text-transform: uppercase;
+  a {
+    color: #eee;
+    opacity: .75;
+    text-shadow: 0 0 1px #111;
+  }
+}

@@ -1,7 +1,9 @@
 ---
 layout: page
+header: light
+rank: 0
 title: Code of Conduct
-permalink: /code-of-conduct/
+permalink: /code_of_conduct/
 ---
 
 All attendees, speakers, sponsors, and volunteers at our events are required
@@ -61,6 +63,9 @@ and community-related social events.
 
 ~~~
 
-Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative
-Please help by translating or improving: http://github.com/leftlogic/confcodeofconduct.com
-This work is licensed under a Creative Commons Attribution 3.0 Unported License
+Original source and credit:
+[http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & The Ada Initiative
+
+Please help by translating or improving:
+[http://github.com/leftlogic/confcodeofconduct.com](http://github.com/leftlogic/confcodeofconduct.com) This work is licensed under a Creative Commons
+Attribution 3.0 Unported License

@@ -1,0 +1,73 @@
+---
+layout: page
+header: light
+rank: 2
+title: Our Community
+stylesheet: our_community
+---
+
+<p>
+  The following organizations have joined with us because they share a desire
+  to strengthen the technology community here in Sacramento. We hope you find
+  a group that meets your needs. If there is a group that you'd like to see
+  started, <a href="mailto:{{site.email}}">contact us</a> and we'll see what we
+  can do!
+</p>
+
+<h3>Member Organizations</h3>
+
+{% assign member_orgs = site.data.member_organizations | sort: 'name' %}
+{% for member_org in member_orgs %}
+  <section id="{{ member_org.name | slugify }}" class="flex MemberOrg">
+    <div class="MemberOrg--overview">
+      <a class="MemberOrg--avatarLink" href="{{ member_org.primary_url }}" target="{{ member_org.name | slugify }}">
+        <img src="{{ member_org.avatar }}" width="100" height="100"/>
+      </a>
+      <div class="MemberOrg--social">
+        {% if member_org.github_username %}
+          <a href="https://github.com/{{ member_org.github_username }}">
+            {% include icons/github.html %}
+          </a>
+        {% endif %}
+        {% if member_org.twitter_username %}
+          <a href="https://twitter.com/{{ member_org.twitter_username }}">
+            {% include icons/twitter.html %}
+          </a>
+        {% endif %}
+        {% if member_org.facebook_username %}
+          <a href="https://facebook.com/{{ member_org.facebook_username }}">
+            {% include icons/facebook.html %}
+          </a>
+        {% endif %}
+        {% if member_org.meetup_username %}
+          <a href="https://meetup.com/{{ member_org.meetup_username }}">
+            {% include icons/meetup.html %}
+          </a>
+        {% endif %}
+        {% if member_org.website %}
+          <a href="{{ member_org.website }}">
+            {% include icons/web.html %}
+          </a>
+        {% endif %}
+        {% if member_org.email %}
+          <a href="mailto:{{ member_org.email }}">
+            {% include icons/email.html %}
+          </a>
+        {% endif %}
+      </div>
+    </div>
+    <div class="flex--grow-1 MemberOrg--details">
+      <h3 class="MemberOrg--heading">
+        <a class="MemberOrg--nameLink" href="{{ member_org.primary_url }}" target="{{ member_org.name | slugify }}">
+          {{ member_org.name }}
+        </a>
+      </h3>
+      <div class="MemberOrg--description">
+        {{ member_org.description | markdownify }}
+      </div>
+      <div class="MemberOrg--focus">
+        {{ member_org.focus | sort | join: ', ' }}
+      </div>
+    </div>
+  </section>
+{% endfor %}

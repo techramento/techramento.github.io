@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<section class="flex flex--column Superhero">
+  <div class="flex flex--column flex--justifyContent-center flex--grow-1 Superhero--content">
+    {% include {{ page.content_include }} %}
+  </div>
+  <div class="Superhero--readMore">
+    <a href="#SuperheroContent">
+      Read more <i class="Superhero--readMoreArrow">&#9660;</i>
+    </a>
+  </div>
+  <div class="Superhero--attribution">
+    <a href="{{ page.superhero_photo_url }}">
+      Photo by {{ page.superhero_photograher }}
+    </a>
+  </div>
+</section>
+
+<div id="SuperheroContent" class="PageContent">
+  <div class="Wrapper">
+    {{ content }}
+  </div>
+</div>

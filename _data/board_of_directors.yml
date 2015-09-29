@@ -1,0 +1,15 @@
+- title: President
+  name: The President
+  initial_member: true
+
+- title: Vice President
+  name:  The Vice President
+  initial_member: true
+
+- title: Tresurer
+  name: The Tresurer
+  initial_member: true
+
+- title: Secretary
+  name: The Secretary
+  initial_member: true

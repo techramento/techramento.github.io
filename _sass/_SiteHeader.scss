@@ -1,0 +1,28 @@
+.SiteHeader {
+  position: absolute;
+  width: 100%;
+  min-width: 1124px;
+  min-height: $header-height;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #eee;
+  a {
+    color: #eee;
+  }
+}
+
+.SiteHeader--light {
+  background: #fff;
+  border-bottom: solid 1px #bec0c0;
+  &,
+  a {
+    color: #34495e;
+  }
+}
+
+.SiteTitle {
+  display: block;
+  font-size: 26px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+}

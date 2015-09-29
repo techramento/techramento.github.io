@@ -1,0 +1,19 @@
+.HeroSection {
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  font-size: 18px;
+  text-align: center;
+}
+
+.HeroSection--header {
+  margin-top: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
+  font-family: Lato, sans-serif;
+  font-weight: 100;
+  font-size: 36px;
+}
+
+.HeroSection--content {
+  padding-top: $spacing-unit / 2;
+  padding-bottom: $spacing-unit / 2;
+}

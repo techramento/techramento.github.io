@@ -1,0 +1,42 @@
+- name: SacJS
+  avatar: http://sacjs.com/images/sac_js.svg
+  primary_url: https://sacjs.com
+  github_username: sacjs
+  meetup_username: The-Sacramento-Javascript-Meetup/
+  twitter_username: sac_js
+  website: https://sacjs.com
+  focus:
+    - javascript
+    - html
+    - css
+    - node
+    - web-tech
+    - community
+    - hardware
+    - nodebots
+    - tooling
+    - education
+  description: >
+    We are excited to build a great community focused on all things Javascript.
+    That means learning about new standards like ES6, frameworks like Polymer
+    and React, tooling like Browserify and GulpJS, robotics like NodeBots and
+    Johnny-Five, libraries like D3 and Lodash, conferences like JSConf and
+    JSFest, and everything else that is out there or yet to be created!
+
+- name: BeerJS Sac
+  avatar: http://sacjs.com/images/beerjs.svg
+  primary_url: https://github.com/beerjs/sac
+  github_username: beerjs/sac
+  meetup_username: The-Sacramento-Javascript-Meetup/
+  twitter_username: beerjs_sac
+  website: https://sacjs.com
+  focus:
+    - javascript
+    - networking
+    - social
+    - community
+    - technology
+  description: >
+    Hangout with Javascript developers & talk about Javascript (or don't) with
+    tasty beverages (or not) in Sacramento. Creating a social space to build a
+    community. No requirement to drink to participate!
