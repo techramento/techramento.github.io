@@ -1,27 +1,33 @@
 # Site settings
-title: Techramento
-legal_title: Techramento
-email:
+baseurl: "" # the subpath of your site, e.g. /blog/
 description: >
   Staffed by community leaders that are passionate about coalescing the
   technology scene in Sacramento, we support our area's usergroups, conferences,
   and most importantly, people, through mentoring, financial support, training,
   and logistics.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://techramento.org"
-twitter_username:
-github_username: techramento
+title: Techramento
+
+# Social
+email:
 facebook_username: techramento
-corporate_physical_address_1: 1715 I St.
-corporate_physical_address_2:
-corporate_physical_city: Sacramento
-corporate_physical_state: CA
-corporate_physical_postal_code: 95811
+github_username: techramento
+twitter_username:
+url: "http://techramento.org"
+
+# Legal Information
+legal_title: Techramento
+
 corporate_mailing_address_1: 1715 I St.
 corporate_mailing_address_2:
 corporate_mailing_city: Sacramento
 corporate_mailing_state: CA
 corporate_mailing_postal_code: 95811
+
+corporate_physical_address_1: 1715 I St.
+corporate_physical_address_2:
+corporate_physical_city: Sacramento
+corporate_physical_state: CA
+corporate_physical_postal_code: 95811
 
 # Build settings
 markdown: kramdown
