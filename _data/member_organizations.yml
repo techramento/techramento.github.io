@@ -40,3 +40,20 @@
     Hangout with Javascript developers & talk about Javascript (or don't) with
     tasty beverages (or not) in Sacramento. Creating a social space to build a
     community. No requirement to drink to participate!
+
+- name: Code for Sacramento
+  avatar: http://codeforsacramento.org/images/codeforsac-logo.svg
+  primary_url: https://codeforsacramento.org
+  github_username: code4sac
+  meetup_username: Code4Sac/
+  twitter_username: code4sac
+  website: https://codeforsacramento.org
+  focus:
+    - civic tech
+    - gov tech
+    - networking
+    - social
+    - community
+    - technology
+  description: >
+    As a Code for America Brigade, we're part of a national network of civic-minded volunteers who contribute their skills toward using the web as a platform for local government and community service.
