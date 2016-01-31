@@ -194,7 +194,7 @@ Meetings and action of the committees shall be governed by and held and taken in
 
 ### 5.3 - Informal Action By The Board of Directors
 
-Any action required or permitted to be taken by the board of directors at a meeting may be taken without a meeting if consent in writing, setting forth the action so taken, shall be agreed by the consensus of a quorum.  For purposes of this section an e-mail transmission from an e-mail address on record constitutes a valid writing.  The intent of this provision is to allow the board of directors to use email to approve actions, as long as a quorum of board members gives consent.
+Any action required or permitted to be taken by the board of directors at a meeting may be taken without a meeting if consent in writing, setting forth the action so taken, shall be agreed by the consensus of a quorum.  For purposes of this section a GitHub Issue created from a GitHub username on record in the official {{ site.legal_title }} repository constitutes valid writing.  The intent of this provision is to allow the board of directors to use GitHub to approve actions, as long as a quorum of board members gives consent.
 
 # Article VI
 
