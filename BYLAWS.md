@@ -112,7 +112,7 @@ The board of directors may fill vacancies due to the expiration of a director’
 
 1. Unexpected Vacancies.
 
-    Vacancies in the board of directors due to resignation, death, or removal shall be filled by the board for the balance of the term of the director being replaced.
+    Vacancies in the board of directors due to resignation, death, or removal shall be appointed by a majority vote of the existing board of directors for the balance of the term of the director being replaced.
 
 ### 4.06 - Removal of Directors
 
