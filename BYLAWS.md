@@ -24,15 +24,23 @@ The name of this corporation shall be {{ site.legal_title }}.
 
 ### 2.01 - Purpose
 
-{{ site.title }} is a non-profit corporation and shall be operated exclusively for educational and charitable purposes within the meaning of Section 501 (c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code.
+{{ site.legal_title }}'s purpose is to educate and train members of the general public in the application of software and hardware technologies.
 
-{{ site.title }}'s purpose is to address, educate, coordinate, and provide aid and relief to eradicate chronic malnutrition and hunger on a local and global level. We provide education by giving free lectures and slideshows titled “The World Hunger Exhibition,” in schools, libraries, and other public venues as well as utilizing social media channels and the corporation’s website to provide facts, statistics, and other related data on causes, current efforts and solutions to eradicating chronic malnutrition and hunger.
+{{ site.legal_title }} is a non-profit corporation and shall be operated exclusively for educational and charitable purposes within the meaning of Section 501 (c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code.
 
-Our programs include sending out ambassadors to raise social consciousness about the cause on a local and global level, and to hold fundraising events in order to provide immediate relief and assistance to those suffering from chronic malnutrition and hunger regardless of their race, ethnicity, or religion.
+Staffed by community leaders that are passionate about coalescing the technology scene in Sacramento, we support our area's usergroups, conferences, and most importantly, people, through mentoring, financial support, training, and logistics, such as:
 
-To maximize our impact on current efforts, we may seek to collaborate with other non-profit organizations which fall under the 501(c) (3) section of the internal revenue code and are operated exclusively for educational and charitable purposes.
+1. Improving technology literacy in Sacramento and the surrounding area
 
-At times, per the discretion of the board of directors, we may provide internships or volunteer opportunities which shall provide opportunities for involvement in said activities and programs in order to have a greater impact for change.
+1. Support the creation, development, and sustainment of technology education groups
+
+1. Promotion and execution of technology education events such as, but not limited to, workshops and conferences
+
+1. Working with employers to support individualized technology instruction.
+
+1. Production of technology educational materials such as, web documents, tutorials, and other instructional media.
+
+At times, per the discretion of the board of directors, we may provide volunteer positions which shall provide opportunities for involvement in said activities.
 
 ### 2.02 - Powers
 
