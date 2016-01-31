@@ -58,11 +58,11 @@ The corporation shall have the power, directly or indirectly, alone or in conjun
 
 1. Distribution Upon Dissolution.
 
-    Upon termination or dissolution of the {{ site.legal_title }}, any assets lawfully available for distribution shall be distributed to one (1) or more qualifying organizations described in Section 501(c)(3) of the 1986 Internal Revenue Code (or described in any corresponding provision of any successor statute) which organization or organizations have a charitable purpose which, at least generally, includes a purpose similar to the terminating or dissolving corporation.
+    Upon termination or dissolution of {{ site.legal_title }}, any assets lawfully available for distribution shall be distributed to one (1) or more qualifying organizations described in Section 501(c)(3) of the 1986 Internal Revenue Code (or described in any corresponding provision of any successor statute) which organization or organizations have a charitable purpose which, at least generally, includes a purpose similar to the terminating or dissolving corporation.
 
-    The organization to receive the assets of the {{ site.legal_title }} hereunder shall be selected in the discretion of a majority of the managing body of the corporation, and if its members cannot so agree, then the recipient organization shall be selected pursuant to a verified petition in equity filed in a court of proper jurisdiction against the {{ site.legal_title }}, by one (1) or more of its managing body which verified petition shall contain such statements as reasonably indicate the applicability of this section. The court upon a finding that this section is applicable shall select the qualifying organization or organizations to receive the assets to be distributed, giving preference if practicable to organizations located within the State of California.
+    The organization to receive the assets of {{ site.legal_title }} hereunder shall be selected in the discretion of a majority of the managing body of the corporation, and if its members cannot so agree, then the recipient organization shall be selected pursuant to a verified petition in equity filed in a court of proper jurisdiction against {{ site.legal_title }}, by one (1) or more of its managing body which verified petition shall contain such statements as reasonably indicate the applicability of this section. The court upon a finding that this section is applicable shall select the qualifying organization or organizations to receive the assets to be distributed, giving preference if practicable to organizations located within the State of California.
 
-    In the event that the court shall find that this section is applicable but that there is no qualifying organization known to it which has a charitable purpose, which, at least generally, includes a purpose similar to the {{ site.legal_title }}, then the court shall direct the distribution of its assets lawfully available for distribution to the Treasurer of the State of California to be added to the general fund.
+    In the event that the court shall find that this section is applicable but that there is no qualifying organization known to it which has a charitable purpose, which, at least generally, includes a purpose similar to {{ site.legal_title }}, then the court shall direct the distribution of its assets lawfully available for distribution to the Treasurer of the State of California to be added to the general fund.
 
 # Article III
 
@@ -90,7 +90,7 @@ Any dues for affiliates shall be determined by the board of directors.
 
 ### 4.02 - Powers
 
-All corporate powers shall be exercised by or under the authority of the board and the affairs of the {{ site.legal_title }}. shall be managed under the direction of the board, except as otherwise provided by law.
+All corporate powers shall be exercised by or under the authority of the board and the affairs of {{ site.legal_title }} shall be managed under the direction of the board, except as otherwise provided by law.
 
 ### 4.03 - Terms
 
@@ -328,7 +328,7 @@ From time to time, {{ site.legal_title }} may establish retention or destruction
 
 #### Section 2. Exception for Litigation Relevant Documents.
 
-{{ site.legal_title }} expects all officers, directors, and employees to comply fully with any published records retention or destruction policies and schedules, provided that all officers, directors, and employees should note the following general exception to any stated destruction schedule: If you believe, or the {{ site.legal_title }} informs you, that corporate records are relevant to litigation, or potential litigation (i.e. a dispute that could result in litigation), then you must preserve those records until it is determined that the records are no longer needed. That exception supersedes any previously or subsequently established destruction schedule for those records.
+{{ site.legal_title }} expects all officers, directors, and employees to comply fully with any published records retention or destruction policies and schedules, provided that all officers, directors, and employees should note the following general exception to any stated destruction schedule: If you believe, or {{ site.legal_title }} informs you, that corporate records are relevant to litigation, or potential litigation (i.e. a dispute that could result in litigation), then you must preserve those records until it is determined that the records are no longer needed. That exception supersedes any previously or subsequently established destruction schedule for those records.
 
 #### Section 3. Minimum Retention Periods for Specific Categories
 
@@ -482,7 +482,7 @@ Anyone filing a complaint concerning a violation or suspected violation of the C
 
 ### 12.04 - Retaliation
 
-Said person is protected from retaliation only if she/he brings the alleged unlawful activity, policy, or practice to the attention of {{ site.legal_title }} and provides the {{ site.legal_title }} with a reasonable opportunity to investigate and correct the alleged unlawful activity. The protection described below is only available to individuals that comply with this requirement.
+Said person is protected from retaliation only if she/he brings the alleged unlawful activity, policy, or practice to the attention of {{ site.legal_title }} and provides {{ site.legal_title }} with a reasonable opportunity to investigate and correct the alleged unlawful activity. The protection described below is only available to individuals that comply with this requirement.
 
 {{ site.legal_title }} shall not retaliate against any director, officer, staff or employee who in good faith, has made a protest or raised a complaint against some practice of {{ site.legal_title }} or of another individual or entity with whom {{ site.legal_title }} has a business relationship, on the basis of a reasonable belief that the practice is in violation of law, or a clear mandate of public policy.
 
