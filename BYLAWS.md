@@ -4,11 +4,11 @@ header: light
 title: Non-Profit Corporate Bylaws
 permalink: /our_mission/bylaws/
 stylesheet: bylaws
-adopted_at: 2015-09-29
+adopted_at: 2016-02-03
 ---
 
-**NOTE:** These {{ page.title }} are a placeholder and have not yet been reviewed nor
-adopted.
+{% assign initial_board_members = site.data.board_of_directors | where:'initial_member',true %}
+{% assign presidents = initial_board_members | where:'title','President' %}
 
 # Article I
 
@@ -504,10 +504,17 @@ This policy shall be made available to all directors, officers, staff or employe
 
 Any amendment to the Articles of Incorporation may be adopted by approval of two-thirds (2/3) of the board of directors.
 
-## Certificate of Adoption of Bylaws
+## Written Consent of Directors Adopting Bylaws
 
-I do hereby certify that the above stated Bylaws of {{ site.legal_title }} were approved by the {{ site.legal_title }}’s board of directors on {{ page.adopted_at | date: '%A, %B %-d, %Y' }} and constitute a complete copy of the Bylaws of the corporation.
+We, the undersigned, are all of the persons acting as the initial directors of {{ site.legal_title }}, a California non-profit corporation, and, pursuant to the authority granted to the directors by these bylaws to take action by unanimous written consent without a meeting, consent to, and hereby do, adopt the foregoing bylaws as the bylaws of this corporation.
 
-Secretary __________________________
+Date: {{ page.adopted_at | date: '%A, %B %-d, %Y' }}
 
-Date: ________________________
+{% for president in presidents %}
+Signed:
+/s/  {{ president.name }}
+{% endfor %}
+
+{% for board_member in initial_board_members %}
+  * {{ board_member.name }}, Director
+{% endfor %}
