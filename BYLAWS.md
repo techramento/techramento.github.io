@@ -156,7 +156,7 @@ A director may be removed by two-thirds vote of the board of directors then in o
 
 ### 4.09 - Compensation for Board Service
 
-Directors shall receive no compensation for carrying out their duties as directors.  The board may adopt policies providing for reasonable reimbursement of directors for expenses incurred in conjunction with carrying out board responsibilities, such as travel expenses to attend board meetings.
+Directors shall receive no compensation for carrying out their duties as directors.  The board may adopt policies providing for reasonable reimbursement of directors for expenses incurred in conjunction with carrying out board responsibilities.
 
 ### 4.10 - Compensation for Professional Services by Directors
 
