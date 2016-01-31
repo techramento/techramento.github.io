@@ -422,7 +422,7 @@ The details of this policy are as follow:
 
 {{ site.legal_title }} shall make “Widely Available” the aforementioned documents on its internet website: {{ site.url }} to be viewed and inspected by the general public.
 
-1. The documents shall be posted in a format that allows an individual using the Internet to access, download, view and print them in a manner that exactly reproduces the image of the original document filed with the IRS (except information exempt from public disclosure requirements, such as contributor lists).
+1. The documents shall be posted in a format that allows an individual using the Internet to access, download, view and print them in a manner that accurately reflects the content of the original document filed with the IRS (except information exempt from public disclosure requirements, such as contributor lists).
 
 1. The website shall clearly inform readers that the document is available and provide instructions for downloading it.
 
