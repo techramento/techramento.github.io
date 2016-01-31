@@ -96,7 +96,7 @@ All corporate powers shall be exercised by or under the authority of the board a
 
 1. All directors shall be elected to serve a two-year term, however the term may be extended until a successor has been elected.
 
-1. Director terms shall be staggered so that approximately half the number of directors will end their terms in any given year.
+1. Director terms may be staggered so that approximately half the number of directors will end their terms in any given year.
 
 1. Directors may serve terms in succession.
 
