@@ -218,7 +218,7 @@ The board president shall be the chief volunteer officer of the corporation. The
 
 ### 6.05 - Vice President
 
-In the absence or disability of the board president, the ranking vice-president or vice-president designated by the board of directors shall perform the duties of the board president. When so acting, the vice-president shall have all the powers of and be subject to all the restrictions upon the board president.  The vice-president shall have such other powers and perform such other duties prescribed for them by the board of directors or the board president.  The vice-president shall normally accede to the office of board president upon the completion of the board president’s term of office.
+In the absence or disability of the board president, the ranking vice-president or vice-president designated by the board of directors shall perform the duties of the board president. When so acting, the vice-president shall have all the powers of and be subject to all the restrictions upon the board president.  The vice-president shall have such other powers and perform such other duties prescribed for them by the board of directors or the board president.
 
 ### 6.06 - Secretary
 
