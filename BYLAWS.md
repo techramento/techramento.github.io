@@ -448,7 +448,7 @@ The details of this policy are as follow:
 
 1. No staff records shall be made available to any person outside the corporation except the authorized governmental agencies.
 
-1. Within the corporation, staff records shall be made available only to those persons with managerial or personnel responsibilities for that staff member, except that
+1. Within the corporation, staff records shall be made available only to those persons with managerial or personnel responsibilities for that staff member, except that:
 
 1. Staff records shall be made available to the board when requested.
 
@@ -458,9 +458,9 @@ The details of this policy are as follow:
 
 1. No donor records shall be made available to any other person outside the corporation except the authorized governmental agencies.
 
-1. Within the corporation, donor records shall be made available only to those persons with managerial or personnel responsibilities for dealing with those donors, except that ;
+1. Within the corporation, donor records shall be made available only to those persons with managerial or personnel responsibilities for dealing with those donors, except that:
 
-1. donor records shall be made available to the board when requested.
+1. Donor records shall be made available to the board when requested.
 
 # Article XII
 
@@ -494,7 +494,7 @@ Violations or suspected violations may be submitted on a confidential basis by t
 
 The board president or vice president shall notify the sender and acknowledge receipt of the reported violation or suspected violation within five business days. All reports shall be promptly investigated by the board and its appointed committee and appropriate corrective action shall be taken if warranted by the investigation.
 
-This policy shall be made available to all directors, officers, staffs or employees and they shall have the opportunity to ask questions about the policy.
+This policy shall be made available to all directors, officers, staff or employees and they shall have the opportunity to ask questions about the policy.
 
 # Article XIII
 
