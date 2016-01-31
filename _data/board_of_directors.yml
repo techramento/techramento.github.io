@@ -1,15 +1,15 @@
 - title: President
-  name: The President
+  name: Derek Lindahl
   initial_member: true
 
 - title: Vice President
-  name:  The Vice President
+  name:  Richard Julian
   initial_member: true
 
 - title: Tresurer
-  name: The Tresurer
+  name: Emma Fletcher
   initial_member: true
 
 - title: Secretary
-  name: The Secretary
+  name: Ash Roughani
   initial_member: true
