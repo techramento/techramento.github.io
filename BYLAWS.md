@@ -86,7 +86,7 @@ Any dues for affiliates shall be determined by the board of directors.
 
 ### 4.01 - Number of Directors
 
-{{ site.legal_title }} shall have a board of directors consisting of at least 4 and no more than 15 directors.  Within these limits, the board may increase or decrease the number of directors serving on the board, including for the purpose of staggering the terms of directors.
+{{ site.legal_title }} shall have a board of directors consisting of at least 4 and no more than 9 directors.  Within these limits, the board may increase or decrease the number of directors serving on the board, including for the purpose of staggering the terms of directors.
 
 ### 4.02 - Powers
 
