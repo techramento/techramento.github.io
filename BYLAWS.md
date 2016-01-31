@@ -16,7 +16,7 @@ adopted.
 
 ### 1.01 - Name
 
-The name of this corporation shall be {{ site.legal_title }}. The business of the corporation may be conducted as {{ site.legal_title }} or {{ site.title }}.
+The name of this corporation shall be {{ site.legal_title }}.
 
 # Article II
 
