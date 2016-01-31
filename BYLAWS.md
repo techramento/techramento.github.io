@@ -290,6 +290,8 @@ The board shall adopt and periodically review a conflict of interest policy to p
 
 The officers, directors, committee members, employees, and persons served by this corporation shall be selected entirely on a nondiscriminatory basis with respect to age, sex, race, religion, national origin, and sexual orientation.  It is the policy of {{ site.legal_title }} not to discriminate on the basis of race, creed, ancestry, marital status, gender, sexual orientation, age, physical disability, veteran’s status, political service or affiliation, color, religion, or national origin.
 
+In addition to the nondiscrimination policy, all business executed by this corporation should be performed in a manner befitting our Code of Conduct.
+
 ### 8.05 - Bylaw Amendment
 
 These Bylaws may be amended, altered, repealed, or restated by a vote of the majority of the board of directors then in office at a meeting of the Board, provided, however,
