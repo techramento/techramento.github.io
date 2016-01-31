@@ -400,7 +400,7 @@ E-mail that needs to be saved should be downloaded to a computer file and kept e
 
 ## Transparency and Accountability
 
-Disclosure of Financial Information With The General Public
+Disclosure of Information With The General Public
 
 ### 11.01 - Purpose
 
