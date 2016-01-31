@@ -118,7 +118,7 @@ The board of directors may fill vacancies due to the expiration of a director’
 
 A director may be removed by two-thirds vote of the board of directors then in office, if:
 
-1. the director is absent and unexcused from two or more meetings of the board of directors in a twelve month period.  The board president is empowered to excuse directors from attendance for a reason deemed adequate by the board president. The president shall not have the power to excuse him/herself from the board meeting attendance and in that case, the board vice president shall excuse the president. Or:
+1. the director is absent and unexcused from two or more regular meetings as defined in the corporation’s bylaws of the board of directors in a twelve month period.  The board president is empowered to excuse directors from attendance for a reason deemed adequate by the board president. The president shall not have the power to excuse him/herself from the board meeting attendance and in that case, the board vice president shall excuse the president. Or:
 
 2. for cause or no cause, if before any meeting of the board at which a vote on removal will be made the director in question is given electronic or written notification of the board’s intention to discuss her/his case and is given the opportunity to be heard at a meeting of the board.
 
