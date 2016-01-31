@@ -394,11 +394,7 @@ From time to time, {{ site.legal_title }} may establish retention or destruction
 
 #### Section 4. Electronic Mail.
 
-E-mail that needs to be saved should be either:
-
-1. printed in hard copy and kept in the appropriate file; or
-
-1. downloaded to a computer file and kept electronically or on disk as a separate file. The retention period depends upon the subject matter of the e-mail, as covered elsewhere in this policy.
+E-mail that needs to be saved should be downloaded to a computer file and kept electronically or on disk as a separate file. The retention period depends upon the subject matter of the e-mail, as covered elsewhere in this policy.
 
 # Article XI
 
