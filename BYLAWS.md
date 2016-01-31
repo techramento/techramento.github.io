@@ -46,11 +46,11 @@ At times, per the discretion of the board of directors, we may provide volunteer
 
 The corporation shall have the power, directly or indirectly, alone or in conjunction or cooperation with others, to do any and all lawful acts which may be necessary or convenient to affect the educational and charitable purposes, for which the corporation is organized, and to aid or assist other organizations or persons whose activities further accomplish, foster, or attain such purposes.  The powers of the corporation may include, but not be limited to, the acceptance of contributions from the public and private sectors, whether financial or in-kind contributions.
 
-### 2.03 - Nonprofit Status and Exempt Activities Limitation.
+### 2.03 - Non-profit Status and Exempt Activities Limitation.
 
-1. Nonprofit Legal Status.
+1. Non-profit Legal Status.
 
-    {{ site.legal_title }} is a California non-profit public benefit corporation, recognized as tax exempt under Section 501(c)(3) of the United States Internal Revenue Code.
+    {{ site.legal_title }} is a California non-profit public benefit corporation.
 
 1. Exempt Activities Limitation.
 
