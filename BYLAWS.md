@@ -206,7 +206,7 @@ The officers of the corporation shall be a board president, vice-president, secr
 
 ### 6.02 - Term of Office
 
-Each officer shall serve a one-year term of office and may not serve more than three (3) consecutive terms of office. Unless unanimously elected by the board at the end of his/her three (3) year terms or to fill a vacancy in an officer position, each board officer’s term of office shall begin upon the adjournment of the board meeting at which elected and shall end upon the adjournment of the board meeting during which a successor is elected.
+Each officer shall serve a two-year term of office. Unless unanimously elected by the board to fill a vacancy in an officer position, each board officer’s term of office shall begin upon the adjournment of the board meeting at which elected and shall end upon the adjournment of the board meeting during which a successor is elected.
 
 ### 6.03 - Removal and Resignation
 
