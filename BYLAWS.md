@@ -432,7 +432,7 @@ The details of this policy are as follow:
 
 ### 11.04 - IRS Annual Information Returns (Form 990)
 
-{{ site.legal_title }} shall submit the Form 990 to its board of directors prior to the filing of the Form 990. While neither the approval of the Form 990 or a review of the 990 is required under Federal law, the corporation’s Form 990 shall be submitted to each member of the board of director’s via (hard copy or email) at least 10 days before the Form 990 is filed with the IRS.
+{{ site.legal_title }} shall submit the Form 990 to its board of directors prior to the filing of the Form 990. While neither the approval of the Form 990 or a review of the 990 is required under Federal law, the corporation’s Form 990 shall be submitted to each member of the board of director’s via hard copy or email at least 10 days before the Form 990 is filed with the IRS.
 
 ### 11.05 - Board
 
