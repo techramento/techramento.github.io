@@ -294,11 +294,11 @@ In addition to the nondiscrimination policy, all business executed by this corpo
 
 ### 8.05 - Bylaw Amendment
 
-These Bylaws may be amended, altered, repealed, or restated by a vote of the majority of the board of directors then in office at a meeting of the Board, provided, however,
+These Bylaws may be amended, altered, repealed, or restated by a two-thirds vote of a quorum of directors at a Board meeting, provided, however,
 
 1. that no amendment shall be made to these Bylaws which would cause the corporation to cease to qualify as an exempt corporation under Section 501 (c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code;  and,
 
-1. that an amendment does not affect the voting rights of directors. An amendment that does affect the voting rights of directors further requires ratification by a two-thirds vote of a quorum of directors at a Board meeting.
+1. that an amendment does not affect the voting rights of directors. An amendment that does affect the voting rights of directors further requires ratification by a two-thirds vote of the board of directors then in office at a meeting of the Board.
 
 1. that all amendments be consistent with the Articles of Incorporation.
 
