@@ -30,15 +30,15 @@ The name of this corporation shall be {{ site.legal_title }}.
 
 Staffed by community leaders that are passionate about coalescing the technology scene in Sacramento, we support our area's usergroups, conferences, and most importantly, people, through mentoring, financial support, training, and logistics, such as:
 
-1. Improving technology literacy in Sacramento and the surrounding area
+1. Improving technology literacy in Sacramento and the surrounding area;
 
-1. Support the creation, development, and sustainment of technology education groups
+1. Supporting the creation, development, and sustainment of technology education groups;
 
-1. Promotion and execution of technology education events such as, but not limited to, workshops and conferences
+1. Promoting and executing technology education events such as, but not limited to, workshops and conferences;
 
-1. Working with employers to support individualized technology instruction.
+1. Working with employers to support individualized technology instruction; and,
 
-1. Production of technology educational materials such as, web documents, tutorials, and other instructional media.
+1. Producing technology educational materials such as, web documents, tutorials, and other instructional media.
 
 At times, per the discretion of the board of directors, we may provide volunteer positions which shall provide opportunities for involvement in said activities.
 
