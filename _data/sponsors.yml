@@ -1,0 +1,17 @@
+- name: Tito
+  company: true
+  primary_url: https://ti.to
+  level: charter
+  logo: https://ti.to/jscss/tito-machine.svg
+  github_username:
+  email: support@tito.io
+  facebook_username:
+  twitter_username: usetito
+  website: https://ti.to
+  segments:
+    - events
+    - ticketing
+  description: >
+    Running events can be stressful. As event organisers ourselves, we know this well.
+
+    Tito is designed to provide a stress-free experience for organisers and attendees. We sweat the software details so that you can focus on planning a great event.
