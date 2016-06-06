@@ -1,0 +1,84 @@
+---
+layout: page
+header: light
+rank:
+title: Our Sponsors
+stylesheet: our_community
+---
+
+{% assign charter_sponsors = site.data.sponsors | where:'level', 'charter' | sort: 'name' %}
+
+<p>
+  The following sponsors have been generous enough to provide their financial
+  and/or technical assistance in helping {{ site.title }} build and strengthen
+  the technology community here in Sacramento.
+</p>
+
+<p>
+  Please join as a sponsor of our amazing community! If you or your company
+  are interested in being a sponsor at any level,
+  <a href="mailto:{{site.email}}">reach out</a> and let's talk about how we can
+  work together to help Sacramento!
+</p>
+
+<h3>Charter Sponsors</h3>
+
+<p>
+  Our charter sponsors were there in the beginning and have helped us build a
+  solid foundation for our community.
+</p>
+
+{% for sponsor in charter_sponsors %}
+  <section id="{{ sponsor.name | slugify }}" class="flex MemberOrg">
+    <div class="MemberOrg--overview">
+      <a class="MemberOrg--avatarLink" href="{{ sponsor.primary_url }}" target="{{ sponsor.name | slugify }}">
+        <img src="{{ sponsor.logo }}" width="100" height="100"/>
+      </a>
+      <div class="MemberOrg--social">
+        {% if sponsor.github_username %}
+          <a href="https://github.com/{{ sponsor.github_username }}">
+            {% include icons/github.html %}
+          </a>
+        {% endif %}
+        {% if sponsor.twitter_username %}
+          <a href="https://twitter.com/{{ sponsor.twitter_username }}">
+            {% include icons/twitter.html %}
+          </a>
+        {% endif %}
+        {% if sponsor.facebook_username %}
+          <a href="https://facebook.com/{{ sponsor.facebook_username }}">
+            {% include icons/facebook.html %}
+          </a>
+        {% endif %}
+        {% if sponsor.meetup_username %}
+          <a href="https://meetup.com/{{ sponsor.meetup_username }}">
+            {% include icons/meetup.html %}
+          </a>
+        {% endif %}
+        {% if sponsor.website %}
+          <a href="{{ sponsor.website }}">
+            {% include icons/web.html %}
+          </a>
+        {% endif %}
+        {% if sponsor.email %}
+          <a href="mailto:{{ sponsor.email }}">
+            {% include icons/email.html %}
+          </a>
+        {% endif %}
+      </div>
+    </div>
+    <div class="flex--grow-1 MemberOrg--details">
+      <h3 class="MemberOrg--heading">
+        <a class="MemberOrg--nameLink" href="{{ sponsor.primary_url }}" target="{{ sponsor.name | slugify }}">
+          {{ sponsor.name }}
+        </a>
+      </h3>
+      <div class="MemberOrg--description">
+        {{ sponsor.description | markdownify }}
+      </div>
+      <div class="MemberOrg--focus">
+        {{ sponsor.segments | sort | join: ', ' }}
+      </div>
+    </div>
+  </section>
+{% endfor %}

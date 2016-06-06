@@ -52,4 +52,25 @@ superhero_photograher: Robert Couse-Baker
       <a href="/our_community/join_us" class="Button">Join Us!</a>
     </p>
   </section>
+
+  <section class="HeroSection">
+    <header class="HeroSection--header">Sponsors</header>
+    <p class="HeroSection--content">
+      {{ site.title }} would not be possible without the generous support of our sponsors.
+      Thanks go out to all of our sponsors that, past and future, that have
+      donated their time or resources into building Sacramento's tech community!
+    </p>
+    {% assign sponsors = site.data.sponsors %}
+    <p class="flex flex--justifyContent-spaceAround">
+      {% for sponsor in sponsors %}
+        <a class="MemberOrg--listItem" href="/our_community#{{ sponsor.name | slugify }}" target="sponsor">
+          <img class="MemberOrg--listItemImg" src="{{ sponsor.logo }}" width="100" height="100"/>
+          {{ sponsor.name }}
+        </a>
+      {% endfor %}
+    </p>
+    <p class="HeroSection--content">
+      <a href="/our_community/sponsors" class="Button">See more</a>
+    </p>
+  </section>
 </main>
