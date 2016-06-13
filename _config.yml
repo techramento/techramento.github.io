@@ -17,17 +17,17 @@ url: "http://techramento.org"
 # Legal Information
 legal_title: Techramento
 
-corporate_mailing_address_1: 1715 I St.
+corporate_mailing_address_1: 9633 Spring Breeze Ct.
 corporate_mailing_address_2:
-corporate_mailing_city: Sacramento
+corporate_mailing_city: Elk Grove
 corporate_mailing_state: CA
-corporate_mailing_postal_code: 95811
+corporate_mailing_postal_code: 95757
 
-corporate_physical_address_1: 1715 I St.
+corporate_physical_address_1: 9633 Spring Breeze Ct.
 corporate_physical_address_2:
-corporate_physical_city: Sacramento
+corporate_physical_city: Elk Grove
 corporate_physical_state: CA
-corporate_physical_postal_code: 95811
+corporate_physical_postal_code: 95757
 
 # Build settings
 markdown: kramdown
