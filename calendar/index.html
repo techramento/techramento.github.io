@@ -1,0 +1,123 @@
+---
+layout: page
+header: light
+rank: 1
+title: Calendar
+---
+
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+<script src="//code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
+
+<script src="{{ site.baseurl }}/js/moment.min.js"></script>
+
+<script src="{{ site.baseurl }}/js/fullcalendar.min.js"></script>
+
+<script src="{{ site.baseurl }}/js/gcal.js"></script>
+
+<script src="{{ site.baseurl }}/js/lang-all.js"></script>
+
+<script src="{{ site.baseurl }}/js/linkify.min.js"></script>
+
+<script src="{{ site.baseurl }}/js/linkify-html.min.js"></script>
+
+
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/jquery-ui.min.js" />
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/cupertino/jquery-ui.css" />
+
+<link rel="stylesheet" href="{{ site.baseurl }}/css/fullcalendar.min.css" />
+
+<script type="text/javascript">
+
+    $(document).ready(function() {
+
+        $('#calendar').fullCalendar({
+
+            googleCalendarApiKey: 'AIzaSyDW0Tv4bWd98hyVZc8t2s7SOA95uBp4cUg',
+
+            events: {
+
+                googleCalendarId: 'techramento.org_eir3cet421mbhdel4mubpljrr0@group.calendar.google.com'
+
+            },
+
+            eventClick:  function(event, jsEvent, view) {
+
+                //set the values and open the modal
+
+                $("#eventInfo").html(linkifyHtml(textToHTML(event.description)));
+
+                $("#eventLink").attr('href', event.url);
+
+                $("#eventContent").dialog({ modal: true, title: event.title, minWidth: 800, minHeight: 400 });
+
+                return false;
+
+            }
+
+        });
+
+    });
+
+
+
+    function textToHTML(text) {
+
+        return ((text || "") + "")  // make sure it is a string;
+
+                .replace(/&/g, "&amp;")
+
+                .replace(/</g, "&lt;")
+
+                .replace(/>/g, "&gt;")
+
+                .replace(/\t/g, "    ")
+
+                .replace(/ /g, "&#8203;&nbsp;&#8203;")
+
+                .replace(/\r\n|\r|\n/g, "<br />");
+
+    }
+
+
+
+</script>
+
+
+
+<!-- Main -->
+
+<section id="main" class="wrapper style1">
+
+    <header class="major">
+
+        <h2>Our Calendar</h2>
+   </header>
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="8u">
+
+                <section>
+
+                    <div id="calendar"></div>
+
+                    <div id="eventContent" title="Event Details" style="display: none;">
+
+                        <div id="eventInfo"></div>
+
+                        <p style="margin-top: 15px;"><strong><a id="eventLink" target="_blank">Read More</a></strong></p>
+
+                    </div>
+
+                </section>
+
+            </div>
+
+</section>
+
+
